@@ -1,6 +1,7 @@
 # 🧠 Automatic Clothing Tagger
 
 **Automatic Clothing Tagger** is a machine learning project focused on automatically labeling clothing items using image data. The system classifies garments by type and color.
+This project was developed by **Julen Cruz**, **Igor Ulyanov** and **Joan Masdefiol**.
 
 ---
 
